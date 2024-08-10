@@ -21,6 +21,8 @@ from common import shared_config
 # generator_model: str = the model for generating data.
 # generation_temp: float = temperature to use when generating responses.
 # Currently supported models (copy-paste into `generator_model` field): [
+#     'gpt_4o_mini',
+#     'gpt_4o',
 #     'gpt_4_turbo',
 #     'gpt_4',
 #     'gpt_4_32k',
@@ -33,7 +35,7 @@ from common import shared_config
 #     'claude_instant',
 # ]
 ################################################################################
-generator_model = 'gpt_4'
+generator_model = 'gpt_4o_mini'
 generation_temp = 1.0
 
 ################################################################################
