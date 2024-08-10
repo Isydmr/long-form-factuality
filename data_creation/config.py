@@ -35,7 +35,7 @@ from common import shared_config
 #     'claude_instant',
 # ]
 ################################################################################
-generator_model = 'gpt_4o_mini'
+generator_model = 'gpt_4'
 generation_temp = 1.0
 
 ################################################################################
