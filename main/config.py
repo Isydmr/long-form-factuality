@@ -55,7 +55,7 @@ save_results = True
 #     'claude_instant',
 # ]
 ################################################################################
-responder_model_short = 'gpt_4o_mini'
+responder_model_short = 'gpt_35_turbo'
 
 ################################################################################
 #                               DEBUG SETTINGS

@@ -39,7 +39,7 @@ anthropic_api_key = ''
 serper_api_key = ''
 random_seed = 1
 model_options = {
-    'gpt_4o_mini': 'OPENAI:gpt-4o-mini',
+    'gpt_4o_mini': 'OPENAI:gpt-4o-mini-2024-07-18',
     'gpt_4o': 'OPENAI:gpt-4o-2024-05-13',
     'gpt_4_turbo': 'OPENAI:gpt-4-0125-preview',
     'gpt_4': 'OPENAI:gpt-4-0613',
