@@ -46,7 +46,7 @@ This can be done by adding your Anthropic API key into the `common/shared_config
 
 **Changing the language model**
 
-The default configuration is set to use `GPT-4o-mini` to respond to prompts.
+The default configuration is set to use `GPT-3.5-Turbo` to respond to prompts.
 To use any other model, simply copy-paste the desired model into the `responder_model_short` variable in `config.py`.
 If a model that you would like to test on is not listed in the currently-supported models, see the README in the `common/` folder for information on how to add support for additional models.
 Currently-supported models:
